@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATIVIDADE UNIDADE 2
 
 ## Algoritmos de Ordenação — Produtos Mais Vendidos
@@ -57,3 +58,7 @@ José Samuel Ferreira da Silva
 Curso: Análise e Desenvolvimento de Sistemas  
 
 Faculdade Unyleya – 2025
+=======
+# Unyleya-Algoritmos-Unidade02
+Exercícios em Java da Unidade 2 do módulo de Algoritmos, do curso de Análise e Desenvolvimento de Sistemas da Faculdade Unyleya. Foco em estruturas de dados como listas, pilhas, filas, mapas (HashMap) e algoritmos de ordenação, com aplicações práticas e didáticas.
+>>>>>>> 5e2c0257d11c5cf362e0647629867e4d38341fae
